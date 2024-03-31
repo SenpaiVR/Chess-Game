@@ -1,9 +1,3 @@
-type ChessOpening = {
-	fen: string;
-	src: string;
-	
-}
-
 const eco = [
 	{
 		"fen": "rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2",

@@ -1,0 +1,58 @@
+{
+  "hash": "0f4b5c60",
+  "configHash": "90b6296b",
+  "lockfileHash": "1f7d093d",
+  "browserHash": "7aa29fe2",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "e14a86eb",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "598140c5",
+      "needsInterop": true
+    },
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "a2bbcd08",
+      "needsInterop": false
+    },
+    "react-chessboard": {
+      "src": "../../node_modules/react-chessboard/dist/index.esm.js",
+      "file": "react-chessboard.js",
+      "fileHash": "4dd1767e",
+      "needsInterop": false
+    },
+    "chess.js": {
+      "src": "../../node_modules/chess.js/dist/esm/chess.js",
+      "file": "chess__js.js",
+      "fileHash": "3f9dc49c",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "bec588d9",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-4ZSTBHIF": {
+      "file": "chunk-4ZSTBHIF.js"
+    },
+    "chunk-2BVVOUCG": {
+      "file": "chunk-2BVVOUCG.js"
+    },
+    "chunk-HAZNF34R": {
+      "file": "chunk-HAZNF34R.js"
+    },
+    "chunk-WXXH56N5": {
+      "file": "chunk-WXXH56N5.js"
+    }
+  }
+}
